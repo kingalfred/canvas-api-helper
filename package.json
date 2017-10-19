@@ -1,0 +1,11 @@
+{
+  "name": "canvas-wrapper",
+  "version": "1.0.0",
+  "description": "Make the Canvas LMS api easy",
+  "main": "canvas.js",
+  "author": "penguoir",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
