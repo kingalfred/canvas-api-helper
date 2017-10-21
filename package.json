@@ -1,5 +1,5 @@
 {
-  "name": "canvas-wrapper",
+  "name": "canvas-api-helper",
   "version": "1.0.1",
   "description": "Make the Canvas LMS api easy",
   "main": "index.js",
